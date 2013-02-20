@@ -1,0 +1,10 @@
+#wrapper {
+  margin-left: 20px;
+}
+
+input.frames {
+  width: 75px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
